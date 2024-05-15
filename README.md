@@ -23,9 +23,8 @@ This sample shows how to quickly get started with [OpenAI Assistant](https://lea
 Azure OpenAI Assistants allows you to create AI assistants tailored to your needs through custom instructions and augmented by advanced tools like code interpreter, and custom functions. In this article, we provide an in-depth walkthrough of getting started with the Assistants API.
 
 <div align="center">
-  <img src="./docs/azure-openai-assistant-diagram.png" alt="Screenshot showing the assistant app high level diagram" width="640px" />
+  <img src="docs/architecture-diagram-assistant-javascript.png" alt="Screenshot showing the assistant app high level diagram" width="640px" />
 </div>
-
 This application is built around two main components:
 
 - A simple HTML page with a vanilla CSS and JavaScript files, and hosted on [Azure Static Web Apps](https://learn.microsoft.com/azure/static-web-apps/overview). The code is located in the [`src`](./src/) folder.
